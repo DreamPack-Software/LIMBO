@@ -1,4 +1,4 @@
-# LIMBO
+# LIMBO by Plaudead
 ## Uncertain of his sister's fate, a boy enters LIMBO
 <img width="817" height="320" alt="image" src="https://github.com/user-attachments/assets/91297ad5-878b-458f-9b7b-bb9103c939c3" />
 
